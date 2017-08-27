@@ -1,2 +1,2 @@
-# react-native-eloyt-component-framework
-A simple framework to making Components easier and scalable. 
+# react-eloyt
+A simple framework to making react easier and scalable. 

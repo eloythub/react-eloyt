@@ -1,0 +1,30 @@
+{
+  "name": "react-eloyt",
+  "version": "0.0.10",
+  "description": "A simple framework to making react easier and scalable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eloythub/react-eloyt.git"
+  },
+  "keywords": [
+    "react-native",
+    "framework",
+    "react-native-component"
+  ],
+  "author": "Mahan Hazrati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloythub/react-eloyt/issues"
+  },
+  "homepage": "https://github.com/eloythub/react-eloyt#readme",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-preset-react-native": "^3.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.47.1"
+  }
+}
